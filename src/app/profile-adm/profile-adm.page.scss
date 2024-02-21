@@ -16,6 +16,7 @@
 
 .img{
     width: 7rem;
+    margin-right: 110%;
 }
 
 .list{
@@ -31,7 +32,7 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
-margin-left: -104%;
+    right: 20rem;
 margin-top: 25%;
     width: 20rem;
     height: 20rem;
@@ -48,6 +49,7 @@ margin-top: 25%;
     line-height: 2rem;
     margin: 0;
     color: rgba(255, 255, 255, 0.596);
+    margin-right: 110%;
 }
 
 .logout{
@@ -87,4 +89,7 @@ justify-content: space-between;
     background-color: #0485ca;
    height: 25rem;
    width: 100%;
+}
+.name{
+    margin-right: 110%;
 }
